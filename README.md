@@ -38,6 +38,6 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 
 ## Ejercicios
 
-* [Clase 1](clase-1.md)
+* [clase-1](clase-1.md)
 * [Clase 2](clase-2.md)
 
